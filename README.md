@@ -5,7 +5,7 @@ The names of the files given in this repository correspond to the analogous figu
 The files in this folder are written in C++ and are especially written for Qt Creator.  One needs to download _gro_ software along with these files in order for it to run properly.  These are available open source.
 
 #fig3 and 4
-These files contain MATLAB code.  Simply run them.
+These files contain MATLAB code.  Simply run them.  The fig3cd.m file may be easily modified to produce the 3 x 3 figure in the SI.  Read the commentary within that file.
 
 #avi files
 These files produce videos showing how the equilibria in fig 2 of the paper are attained from their random initialization.
