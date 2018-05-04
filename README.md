@@ -7,3 +7,8 @@ The files in this folder are written in C++ and are especially written for Qt Cr
 #fig3 and 4
 These files contain MATLAB code.  Simply run them.
 
+#avi files
+These files produce videos showing how the equilibria in fig 2 of the paper are attained from their random initialization.
+
+#InitialVacancies.m is a MATLAB program that allows for intiail conditions with vacancies.  This program serves to show that having vacancies initially is not necessary for the model to proceed as we describe in the paper.
+
