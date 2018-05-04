@@ -1,2 +1,9 @@
 # CellAlignment
 The names of the files given in this repository correspond to the analogous figures in the paper "Boundary-Driven Emergent Spatiotemporal Order in Growing Microbial Colonies".  Simply open the code, run it on the proper program, and the figures should emerge.
+
+#fig2
+The files in this folder are written in C++ and are especially written for Qt Creator.  One needs to download _gro_ software along with these files in order for it to run properly.  These are available open source.
+
+#fig3 and 4
+These files contain MATLAB code.  Simply run them.
+
