@@ -8,7 +8,7 @@ The files in this folder are written in C++ and are especially written for Qt Cr
 These files contain MATLAB code.  Simply run them.  The fig3cd.m file may be easily modified to produce the 3 x 3 figure in the SI.  Read the commentary within that file.  Similarly, code in fig4 files may be modified to reproduce the SI figures showing how /kappa scales with $s$ for several different interaction kernels.
 
 #avi files
-These files produce videos showing how the equilibria in fig 2 of the paper are attained from their random initialization.
+These files produce videos showing how the equilibria in fig 2 of the paper are attained from their random initialization.  The videos with titles beginning "longrange" are videos for the stochastic model that incorporates long-range effects.
 
 #InitialVacancies.m is a MATLAB program that allows for intiail conditions with vacancies.  This program serves to show that having vacancies initially is not necessary for the model to proceed as we describe in the paper.
 
